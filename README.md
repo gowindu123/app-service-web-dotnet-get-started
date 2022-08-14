@@ -19,7 +19,3 @@ To learn how to deploy this starter web app to App Service in a few minutes, go 
 See [LICENSE](LICENSE).
 
 This is thesecond update
-Ipdating in the dev1
-I am updating this 
-update2
-Readme1
