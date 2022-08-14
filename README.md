@@ -19,5 +19,3 @@ To learn how to deploy this starter web app to App Service in a few minutes, go 
 See [LICENSE](LICENSE).
 
 This is thesecond update
-I am updating this Readme1
-this is the thrird commit by me
